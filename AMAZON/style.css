@@ -1,0 +1,49 @@
+nav {
+  background-color: rgb(121, 229, 236);
+}
+
+/* card image fixing */
+.A {
+  height: 200px;
+}
+.sign{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.sign button{
+    margin-top: 20px;
+    background-color: yellow;
+    border-radius: 20px;
+    width: 200px;
+    margin-bottom: 20px;
+}
+.sign button:hover{
+    background-color: rgb(93, 14, 240);
+}
+.last{
+  margin-top: 100px;
+}
+.last img{
+  height: 200px;
+
+}
+.last h1{
+  height: 100px;
+}
+.class{
+  margin-top: 300px;
+}
+.w{
+  background-color: rgb(136, 129, 224);
+  width: 100%;
+}
+.w a{
+  text-decoration: none;
+  color: white;
+}
+.dark{
+  text-align: center;
+  background-color: black;
+  color:wheat;
+}
